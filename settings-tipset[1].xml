@@ -1,0 +1,141 @@
+<tipSet version="1">
+  <tip id="SettingsPagePCSystemDisplay" condition="not(platform match 'surfaceHub')">
+    <title>Ngủ ngon hơn</title>
+    <content>
+      <p>Ánh sáng đêm có thể giúp bạn dễ ngủ bằng cách hiển thị màu sắc ấm vào ban đêm. Chọn cài đặt Ánh sáng đêm để thiết lập mọi thứ.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageAppsNotifications">
+    <title>Nhận các thông báo bạn muốn</title>
+    <content>
+      <p>Để một ứng dụng bắt đầu gửi thông báo cho bạn, hãy chuyển tới Nhận thông báo từ những người gửi này và sau đó bật ứng dụng đó.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageScreenPowerAndSleep">
+    <title>Tiết kiệm năng lượng và thời lượng pin</title>
+    <content>
+      <p>Kéo dài thời lượng pin bằng cách chọn cài đặt chế độ ngủ và thời gian tắt màn hình ngắn hơn.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageStorageSenseStorageOverview" condition="not(platform match 'hololens')">
+    <title>Sắp xếp ngăn nắp PC của bạn</title>
+    <content>
+      <p>Khi bật Nhận biết lưu trữ, dung lượng sẽ chỉ được giải phóng khi PC của bạn sắp hết dung lượng. Để dọn dẹp ngay các tệp không sử dụng nữa, hãy chọn Đặt cấu hình Nhận biết Lưu trữ hoặc chạy tính năng này ngay &gt; Dọn dẹp ngay.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPagePCSystemShellMode">
+    <title>Chế độ máy tính bảng là gì?</title>
+    <content>
+      <p>Chế độ máy tính bảng tối ưu hóa thiết bị của bạn cho thao tác cảm ứng, vì vậy bạn không cần phải sử dụng bàn phím và chuột. Khi chế độ máy tính bảng đang bật, ứng dụng sẽ mở ra toàn màn hình và thanh tác vụ cũng như các biểu tượng trên màn hình nền sẽ được giảm bớt.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageMultiTasking">
+    <title>Sắp xếp không gian làm việc trên màn hình nền của bạn</title>
+    <content>
+      <p>Để chuyển đổi qua lại giữa các ứng dụng đang mở, hãy chọn nút Chế độ xem Tác vụ trên thanh tác vụ hoặc nhấn Alt + Tab.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageDevices" condition="not(platform match '(hololens)|(surfaceHub)')">
+    <title>Bật Bluetooth nhanh hơn nữa</title>
+    <content>
+      <p>Để bật hoặc tắt Bluetooth mà không cần mở Cài đặt, hãy mở trung tâm hành động và chọn biểu tượng Bluetooth.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageDevicesPrinters">
+    <title>Khắc phục sự cố máy in của bạn</title>
+    <content>
+      <p>Nếu bạn không thể khắc phục để máy in hoạt động, hãy thử chạy trình khắc phục sự cố máy in.</p>
+    </content>
+    <cta href="ms-settings:troubleshoot">
+      <text>Mở cài đặt trình khắc phục sự cố</text>
+    </cta>
+  </tip>
+  <tip id="SettingsPageDevicesTouchpad">
+    <title>Thực hiện hành động bằng cách chạm</title>
+    <content>
+      <p>Trượt nhanh lên trên bằng ba ngón tay để hiển thị tất cả các ứng dụng đang mở hoặc nhấn một lần bằng hai ngón tay vào ứng dụng để bấm chuột phải.</p>
+    </content>
+    <cta href="https://go.microsoft.com/fwlink/p/?linkid=2005515&amp;ocid=SettingsTips-BingIA">
+      <text>Tìm hiểu các thao tác khác</text>
+    </cta>
+  </tip>
+  <tip id="SettingsPageManagePhone">
+    <title>Xem ảnh và gửi tin nhắn</title>
+    <content>
+      <p>Xem các ảnh gần đây và gửi tin nhắn văn bản từ điện thoại Android của bạn. Chọn Thêm điện thoại để thiết lập.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageNetworkWiFi" condition="platform match 'desktop'">
+    <title>Kết nối với mạng không dây</title>
+    <content>
+      <p>Nếu bạn không thấy mạng không dây mà mình muốn, hãy chọn Hiển thị mạng hiện có, chọn mạng mà bạn muốn, rồi chọn Kết nối.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageThemes">
+    <title>Cá nhân hóa hơn nữa trong Windows</title>
+    <content>
+      <p>Tải xuống các chủ đề miễn phí kết hợp hình nền, âm thanh và màu sắc từ Microsoft Store</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageAppsDefaults">
+    <title>Chọn ứng dụng mặc định của bạn</title>
+    <content>
+      <p>Chọn những ứng dụng bạn sử dụng để nghe nhạc, xem ảnh, kiểm tra thư, xem video và nhiều ứng dụng khác nữa.</p>
+      <p>Sử dụng Đặt lại khi bạn muốn quay lại các ứng dụng mặc định mà Microsoft khuyến nghị.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageSignInOptions" condition="not(platform match 'hololens')">
+    <title>Khóa PC trong tích tắc</title>
+    <content>
+      <p>Để bảo vệ thông tin cá nhân của bạn và giúp giữ an toàn cho thiết bị, hãy nhấn phím logo Windows + L trước khi bạn rời khỏi PC của mình.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageAccountsEmailApp" condition="not(platform match 'hololens')">
+    <title>Thay đổi ứng dụng mặc định</title>
+    <content>
+      <p>Để chọn các ứng dụng mặc định mở tệp, liên kết v.v..., hãy đi tới Cài đặt ứng dụng mặc định.</p>
+    </content>
+    <cta href="ms-settings:defaultapps">
+      <text>Mở cài đặt Ứng dụng mặc định</text>
+    </cta>
+  </tip>
+  <tip id="SettingsPageEaseOfAccessNarrator">
+    <title>Đọc nhanh hơn với chế độ quét</title>
+    <content>
+      <p>Bật Trình tường thuật rồi nhấn phím caps lock và phím cách để bật chế độ quét. Sau đó, nhấn các phím mũi tên lên và xuống để đọc mọi thứ trong ứng dụng hoặc trang web.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageWindowsDefender">
+    <title>Giữ cho PC của bạn an toàn</title>
+    <content>
+      <p>Bảo mật Windows có các tùy chọn để giúp bảo vệ bạn trực tuyến, duy trì hiệu suất hoạt động của thiết bị, chạy các lượt quét định kỳ, quản lý cài đặt bảo vệ khỏi mối đe dọa và hơn thế nữa.</p>
+    </content>
+  </tip>
+  <tip id="SettingsPageRestoreOneBackup">
+    <title>Chọn tùy chọn sao lưu phù hợp với bạn</title>
+    <content>
+      <p>Để Windows sao lưu tệp của bạn vào một nơi an toàn, hãy chọn vị trí bạn muốn lưu tệp của mình—vào đám mây, thiết bị lưu trữ bên ngoài hoặc trên hệ thống mạng.</p>
+    </content>
+    <cta href="https://support.microsoft.com/help/4521035/">
+      <text>Tìm hiểu thêm về các tùy chọn sao lưu</text>
+    </cta>
+  </tip>
+  <tip id="SettingsPageRestoreRestore" condition="not(platform match '(hololens)|(surfaceHub)')">
+    <title>Khắc phục sự cố mà không cần phải khôi phục cài đặt gốc</title>
+    <content>
+      <p>Tác vụ khôi phục cài đặt gốc có thể mất một khoảng thời gian. Nếu bạn chưa thực hiện, hãy thử chạy trình khắc phục sự cố để khắc phục sự cố trước khi khôi phục cài đặt gốc.</p>
+    </content>
+    <cta href="ms-settings:troubleshoot" reportingName="Troubleshoot" tags="CTA=button;product=windows">
+      <text>Khắc phục sự cố</text>
+    </cta>
+  </tip>
+  <tip id="SettingsPageActivate">
+    <title>Khóa sản phẩm của tôi ở đâu?</title>
+    <content>
+      <p>Tùy thuộc vào cách bạn có được Windows, quá trình kích hoạt sẽ sử dụng giấy phép kỹ thuật số hoặc khóa sản phẩm.</p>
+    </content>
+    <cta href="https://support.microsoft.com/help/12440?ocid=ActivationTipinSettings">
+      <text>Xem thêm thông tin về việc kích hoạt</text>
+    </cta>
+  </tip>
+</tipSet>
